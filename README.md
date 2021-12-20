@@ -1,4 +1,4 @@
-# send-token
+# view-transactions
 
 Handles Displaying Last 10 Signatures for a Public Key
 
